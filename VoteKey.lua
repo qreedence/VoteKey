@@ -3,7 +3,6 @@ local voteFrame
 local artFrame
 
 local function DisplayMyKeystoneInfo()
-    print("--- Your Keystone Info ---")
     local challengeMapID = C_MythicPlus.GetOwnedKeystoneChallengeMapID()
     local keystoneLevel = C_MythicPlus.GetOwnedKeystoneLevel()
 
