@@ -1,0 +1,17 @@
+## Interface: 110200
+## Title: VoteKey
+## Notes: An addon that allows you to vote for which dungeon to go to next, based on which keystones the party members have.
+## Author: Qreedence
+## Version: 0.0.1
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+# ## SavedVariables: VoteKeyDB
+## SavedVariablesPerCharacter: 
+
+# Libraries
+# libs/Ace3/AceAddon-3.0/AceAddon-3.0.lua
+# libs/Ace3/AceDB-3.0/AceDB-3.0.lua
+# libs/LibDBIcon-1.0/embeds.xml
+
+#Main Files
+VoteKey.lua
